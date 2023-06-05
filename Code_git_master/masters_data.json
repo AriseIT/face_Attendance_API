@@ -1,0 +1,17 @@
+{
+    "district_details":
+        [
+            { "districtName":"UP" },
+            { "districtName":"Gujarat" }
+        ],
+    "block_details":
+        [
+            { "blockName":"block1" },
+            { "blockName":"block2" }
+        ],
+    "vibhag_details":
+        [
+            { "vibhagName":"Government vibhag" },
+            { "vibhagName":"vibhag" }
+        ]
+    }
