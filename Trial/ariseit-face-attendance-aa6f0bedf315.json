@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ariseit-face-attendance",
+  "private_key_id": "aa6f0bedf315a39a313c8b52cc683704c9d8d842",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHUqoqQEo55ucQ\n6Qt48rjTP+sjfYtooS+qqutremcxnzm09PkTP1IwVpcMzW65nN2FlSNp4UYuj4uN\nFtorKIfSgVSSwJw8x2DCd2sB6WE6ih9mpKHvU8vIMehq6iVW/ptMWB+q+6jyY/nG\n0ucsSOPKPPYZC7BPoTWCZ2Iqm3d9mPH3GsDg17z3xBwCzdl3B6VijBVFkO77fPPO\n6+78zi/5mLk6IDlqnZxkbT5jU7eFUcbW4+aSXiHG5+YLo9y6IDbU+Q+NI3EewCqw\nMygeAbbM+VIZfFE6rvpl8vxqus3OwIxd+y/YlZrKVCxCrpZ/9DbwOrcOga+262f6\n32kt7htdAgMBAAECggEAO5lQIEoQ57dPKBNGxudstF3MZVRItwRbSGDK+9whtwix\nLJaDU2n/nUyG5eEXVpC8/BBYAnTFk26Af7NxkK4RzrO1IhxNmy7Sk9M5P90UoXhj\nY0Ge2fzoVff2UuGoQJbowK8o6OtO3QtfyD+PuAIjenk37M097tF5OoDHLY5G8Fqf\nWXcjyjc8VnDu59NBFpD/jB4u8ljcdpEFKrGpnyJ5BC5E3GJ8KF2KWKok4hcYmR1Z\n6matHSD1F5/2jlOu8jHEA03gxC/xHAeZHJ5nqIraEH/mZCHSTr3s3eH3qIb3DAqc\nIjjfx2bPABRpshWvCxu/3FtDostzkhc7i+6xftxf0QKBgQD5y+WbXBIDXcOX73If\nHfnST8mU8KP+MzadLnrK1xP9F5myonMYWIdBpaiMBqW8JKUUnA0re3JeTFz/J8Rq\nIaIxlpv32P08kDseRHdN+7eB3l3kVH5/ZQdaU5kWkKqjUfFgcb8boh1vsNJPTDGV\ndItxRfhfGYVspH3mPDMM14XX0wKBgQDMReCvZ0K9PNBRljrzpf/K2sV9+SrToZYV\nd8ALAIUoSuHn4kDmnJg587/DtTNoU+YV4mombM1SY9mR/0cbJcgxzbprjAH5qkIY\nH40vKuEWNtnWH5mPxrTnPwt+j+40lfmMbY3VMF+7z0/iNUFdoY4l+H9GDwVFdKGw\nUMAlmwvyDwKBgDXfSXeGFcRwFlzQITagyl4XIwxiEZwjA2ZGvei9FeyBiH5EFrpr\nbVA1H/KDBH9dD9UwCo8UIog/w9arhuq0sjwrlRuQypyjJnzSm0BQRzVU9b7mkhl7\nemh6mwuIy6RJads47NRS1DJgWhsL/a2T4vbc9kHcSTAzEYvz87aTTKRNAoGAawgW\nIXHmm0cZFBa2TuHktEKLBmWfFgJtpFP5kQo1uxX5Zkm7ndnhPURFb2MrS3ficAcR\nfY62ynu9DW2HsWbLjaTxD9btVgbq2L73eAZsp/oXi8VE7fu84Am9mRQLSQxoFDd3\nAIR3NO38OleTJ182Hxkkfu3x4iGpcrvs4gdqa+sCgYEApbiL8EqGRqW7I2Y8WXxu\nAzQo+EwQIh78JKo+G/bBc2bqmWlPK9Fpw/h423Wg0GqJCtqwbKbcrmXEYbhbj0r5\nZY5OEk8aW13DMG6gC6SCCd5el9q7DuB0cCALzCTATJCUWUMw8Mp7MI8ZHL4mnhJj\npvhj8Q3Wqb88wrcidfL2fo8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account-723@ariseit-face-attendance.iam.gserviceaccount.com",
+  "client_id": "104345907868064170099",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account-723%40ariseit-face-attendance.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
